@@ -57,6 +57,7 @@ img {
   display:grid;
   padding: 10px;
   grid-template-rows:auto;
+  row-gap: ;
 }
 
 .plantTypes{
